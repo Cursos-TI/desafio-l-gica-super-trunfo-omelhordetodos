@@ -28,7 +28,7 @@ int main() {
         printf ("Saindo... \n");
         break;
     default:
-        printf ("Opição invalida! \n")
+        printf ("Opição invalida! \n");
     }
     // Cadastro das Cartas:
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
